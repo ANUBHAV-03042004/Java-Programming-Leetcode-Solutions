@@ -47,7 +47,7 @@ Each file represents a **self-contained Java solution** with a focus on:
   <img src="https://img.shields.io/badge/LeetCode-Interview%20Preparation-yellow?style=for-the-badge&logo=leetcode" />
 </p>
 <p align="center">
-  <a href="https://leetcode.com/Anubhav-03042004/" target="_blank">
+  <a href="https://leetcode.com/Anubhav03042004/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
