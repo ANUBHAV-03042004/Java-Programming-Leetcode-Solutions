@@ -36,6 +36,22 @@ Each file represents a **self-contained Java solution** with a focus on:
 - Time & space efficiency
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-yellow?style=for-the-badge&logo=leetcode" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Core%20%7C%20OOP%20%7C%20Collections-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/DSA-Arrays%20%7C%20Trees%20%7C%20Graphs-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode-Interview%20Preparation-yellow?style=for-the-badge&logo=leetcode" />
+</p>
+<p align="center">
+  <a href="https://leetcode.com/Anubhav-03042004/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-black?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
 
 ## 🧩 Topics Covered
 
